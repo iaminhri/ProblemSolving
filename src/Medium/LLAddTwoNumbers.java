@@ -1,6 +1,6 @@
 package Medium;
 
-import Node.ListNode;
+import Library.ListNode;
 
 public class LLAddTwoNumbers {
     ListNode head1, head2;

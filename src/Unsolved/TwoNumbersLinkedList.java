@@ -1,5 +1,5 @@
 package Unsolved;//Partial acceptance Rate in leet code for problem Add Two Numbers
-import Node.ListNode;
+import Library.ListNode;
 
 public class TwoNumbersLinkedList {
     public ListNode head, head2;
