@@ -1,3 +1,5 @@
+package Random;
+
 //Unsolved -> Try Later
 public class Task3 {
     public Task3(){

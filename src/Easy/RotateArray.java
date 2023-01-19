@@ -1,4 +1,5 @@
-import javax.sound.midi.Soundbank;
+package Easy;
+
 import java.util.Arrays;
 
 public class RotateArray {

@@ -1,3 +1,5 @@
+package Random;
+
 public class Days {
     public Days(){
         System.out.println(solution("Wed", 2));
